@@ -11,9 +11,7 @@ This repository contains Python code for practical wireless security exercises. 
 
 ### 1) airodump
 
-This Python version replicates the airodump command, used for collecting wireless Wi-Fi information.
-
-[link](https://github.com/kimseongwoo61/NetworkSecurity/tree/main/airodump-main/airodump-main)
+This Python version replicates the airodump command, used for collecting wireless Wi-Fi information.([link](https://github.com/kimseongwoo61/NetworkSecurity/tree/main/airodump-main/airodump-main))
 
 ### 2) Beacon Flooding Attack
 
