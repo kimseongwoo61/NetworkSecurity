@@ -17,23 +17,17 @@ This Python version replicates the airodump command, used for collecting wireles
 
 To connect to Wi-Fi routers, routers periodically receive Beacon Frames from Access Points (AP).
 
-By receiving forged Beacon Frames, one can create a fake Wi-Fi network while simultaneously disrupting other APs from connecting to Wi-Fi normally.
-
-[link](#)
+By receiving forged Beacon Frames, one can create a fake Wi-Fi network while simultaneously disrupting other APs from connecting to Wi-Fi normally.([link](https://github.com/kimseongwoo61/NetworkSecurity/tree/main/beacon-flood-main/beacon-flood-main))
 
 ### 3) Deauthentication Attack
 
 When attempting to connect to Wi-Fi, after the connection is accepted, the communication proceeds.
 
-This attack method intercepts deauthentication communication, forcing arbitrary APs to disconnect.
-
-[link](#)
+This attack method intercepts deauthentication communication, forcing arbitrary APs to disconnect.([link](https://github.com/kimseongwoo61/NetworkSecurity/tree/main/deauth-attack-main/deauth-attack-main))
 
 ### 4) Signal Strength Check
 
-This code helps to check the wireless signal strength of surrounding Wi-Fi networks.
-
-[link](#)
+This code helps to check the wireless signal strength of surrounding Wi-Fi networks.([link](https://github.com/kimseongwoo61/NetworkSecurity/tree/main/signal-strength-main/signal-strength-main))
 
 ## Notes
 
